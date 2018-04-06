@@ -1,0 +1,3 @@
+                                            UNIQUE
+                R MAILINFOF                 PFILE(MAILINFO)
+                K ID
